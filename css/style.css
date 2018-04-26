@@ -1,5 +1,5 @@
 body {
-  text-align:center;
+  text-align: center;
   font-family: "Helvetica", sans-serif;
 }
 
@@ -33,7 +33,7 @@ a {
 }
 
 .footer {
-  color: #fff; 
+  color: #fff;
   background-color: dimgray;
   text-align: left;
   font-size 11px;
